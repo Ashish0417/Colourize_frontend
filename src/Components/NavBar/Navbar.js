@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import './Navbar.css'
 import logo from '../../assets/OIP (1).jpeg'
 import { Link } from 'react-scroll';
-import { Link as RouterLink,useLocationgti  } from 'react-router-dom';
+import { Link as RouterLink,useLocation  } from 'react-router-dom';
 import menu_icon from '../../assets/menu_24dp_E8EAED_FILL0_wght400_GRAD0_opsz24.png'
 
 
